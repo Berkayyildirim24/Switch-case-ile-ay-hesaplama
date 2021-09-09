@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\bin\Debug\Swicth case ile ay yazdırma.exe.config
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\bin\Debug\Swicth case ile ay yazdırma.exe
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\bin\Debug\Swicth case ile ay yazdırma.pdb
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth case ile ay yazdırma.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth_case_ile_ay_yazdırma.Form1.resources
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth_case_ile_ay_yazdırma.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth case ile ay yazdırma.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth case ile ay yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth case ile ay yazdırma.exe
+C:\Users\lenovo\source\repos\Switch case ile ay yazdırma\Swicth case ile ay yazdırma\obj\Debug\Swicth case ile ay yazdırma.pdb

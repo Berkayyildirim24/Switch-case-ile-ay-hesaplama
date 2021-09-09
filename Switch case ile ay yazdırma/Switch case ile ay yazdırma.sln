@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swicth case ile ay yazdırma", "Swicth case ile ay yazdırma\Swicth case ile ay yazdırma.csproj", "{EDE19491-0C6A-4687-A1E4-DBA227A364F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE19491-0C6A-4687-A1E4-DBA227A364F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE19491-0C6A-4687-A1E4-DBA227A364F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE19491-0C6A-4687-A1E4-DBA227A364F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE19491-0C6A-4687-A1E4-DBA227A364F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C67057-4029-4828-983D-E9EE4C5A56EC}
+	EndGlobalSection
+EndGlobal
